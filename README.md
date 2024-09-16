@@ -53,8 +53,8 @@
 ## 🌐 **Connect to me:** ️
 
 [<img src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white'>](https://github.com/trongdathoang)  
-[<img src='https://img.shields.io/badge/LinkedIn-xuan--tuan--minh--nguyen-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5' />](https://www.linkedin.com/in/trong-dat-hoang-721683301/)  
-[<img src='https://img.shields.io/badge/Facebook-Tuan--Minh-brightgreen?style=for-the-badge&labelColor=black&logo=facebook' />]([https://www.facebook.com/profile.php?id=100022930086716](https://www.facebook.com/23052k/))  
+[<img src='https://img.shields.io/badge/LinkedIn-trong--dat--hoang-informational?style=for-the-badge&labelColor=black&logo=linkedin&logoColor=0077b5&&color=0077b5' />](https://www.linkedin.com/in/trong-dat-hoang-721683301/)  
+[<img src='https://img.shields.io/badge/Facebook-dat--hoang-brightgreen?style=for-the-badge&labelColor=black&logo=facebook' />]([https://www.facebook.com/profile.php?id=100022930086716](https://www.facebook.com/23052k/))  
 [<img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' />](cunpro2000@gmail.com)
 
 <!--
